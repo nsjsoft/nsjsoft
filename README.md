@@ -26,6 +26,18 @@
 -->
 
 ✏ Stack   
+<img src="https://img.shields.io/badge/style-plastic-red?style=plastic">
+<img src="https://img.shields.io/badge/style-flat-red?style=flat">
+<img src="https://img.shields.io/badge/style-square-red?style=flat-square">
+<img src="https://img.shields.io/badge/style-forthebage-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/style-social-red?style=social">
+
+✏ Stack   
+<img src="https://img.shields.io/badge/logo-test-blue?logo=facebook">
+<img src="https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white">
+<img src="https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white&logoWidth=40">
+
+✏ Stack   
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
