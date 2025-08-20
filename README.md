@@ -86,7 +86,8 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-✏ Stack   
+
+✏ Stack  
 <img src="https://img.shields.io/badge/style-plastic-red?style=plastic">
 <img src="https://img.shields.io/badge/style-flat-red?style=flat">
 <img src="https://img.shields.io/badge/style-square-red?style=flat-square">
